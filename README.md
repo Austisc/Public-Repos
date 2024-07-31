@@ -1,2 +1,2 @@
 # Public-Repos
-Leetcode Problem and Past-School Assignmen t
+Leetcode Problem and Past-School Assignment
