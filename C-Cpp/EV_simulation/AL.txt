@@ -1,0 +1,1717 @@
+
+--------------------------------------------------------------------
+Iteration :     2
+Logged time :      :   2023-10-19 06:30:44
+Alert reported time      :2023-10-19 06:30:10
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+6		(2,0)		5	1
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	1
+
+7		(2,1)		5	4
+Nearby Nodes		Coord
+0			(0,0)
+4			(1,1)
+8			(2,2)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 0  4  8 
+Communication Time betweeen Base Station and Reporting Node :  0.00000671  
+Number of Communication betweeen Base Station and Reporting Node :  1  
+
+--------------------------------------------------------------------
+Iteration :     3
+Logged time :      :   2023-10-19 06:45:58
+Alert reported time      :2023-10-19 06:45:25
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+2		(0,2)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+5		(1,2)		5	3
+
+1		(0,1)		5	0
+Nearby Nodes		Coord
+8			(2,2)
+4			(1,1)
+0			(0,0)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 8  4  0 
+Communication Time betweeen Base Station and Reporting Node :  0.00000565  
+Number of Communication betweeen Base Station and Reporting Node :  1  
+
+--------------------------------------------------------------------
+Iteration :     5
+Logged time :      :   2023-10-19 07:15:54
+Alert reported time      :2023-10-19 07:15:25
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+0		(0,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	0
+
+1		(0,1)		5	1
+Nearby Nodes		Coord
+6			(2,0)
+4			(1,1)
+2			(0,2)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 4  2 
+Communication Time betweeen Base Station and Reporting Node :  0.00000598  
+Number of Communication betweeen Base Station and Reporting Node :  1  
+
+--------------------------------------------------------------------
+Iteration :     5
+Logged time :      :   2023-10-19 07:15:47
+Alert reported time      :2023-10-19 07:15:03
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+6		(2,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	0
+
+7		(2,1)		5	3
+Nearby Nodes		Coord
+0			(0,0)
+4			(1,1)
+8			(2,2)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 4  8 
+Communication Time betweeen Base Station and Reporting Node :  0.00000533  
+Number of Communication betweeen Base Station and Reporting Node :  2  
+
+--------------------------------------------------------------------
+Iteration :     6
+Logged time :      :   2023-10-19 07:30:10
+Alert reported time      :2023-10-19 07:30:01
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+3		(1,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+0		(0,0)		5	4
+
+6		(2,0)		5	1
+
+4		(1,1)		5	0
+Nearby Nodes		Coord
+1			(0,1)
+7			(2,1)
+5			(1,2)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 1  7  5 
+Communication Time betweeen Base Station and Reporting Node :  0.00000601  
+Number of Communication betweeen Base Station and Reporting Node :  1  
+
+--------------------------------------------------------------------
+Iteration :     6
+Logged time :      :   2023-10-19 07:30:03
+Alert reported time      :2023-10-19 07:30:01
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+6		(2,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	1
+
+7		(2,1)		5	2
+Nearby Nodes		Coord
+0			(0,0)
+4			(1,1)
+8			(2,2)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 0  4  8 
+Communication Time betweeen Base Station and Reporting Node :  0.09424209  
+Number of Communication betweeen Base Station and Reporting Node :  4  
+
+--------------------------------------------------------------------
+Iteration :     8
+Logged time :      :   2023-10-19 08:00:51
+Alert reported time      :2023-10-19 08:00:19
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+6		(2,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	-1
+
+7		(2,1)		5	1
+Nearby Nodes		Coord
+0			(0,0)
+4			(1,1)
+8			(2,2)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 0  4  8 
+Communication Time betweeen Base Station and Reporting Node :  0.00000609  
+Number of Communication betweeen Base Station and Reporting Node :  5  
+
+--------------------------------------------------------------------
+Iteration :     8
+Logged time :      :   2023-10-19 08:00:24
+Alert reported time      :2023-10-19 08:00:22
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+7		(2,1)		5	1
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+4		(1,1)		5	1
+
+6		(2,0)		5	0
+
+8		(2,2)		5	2
+Nearby Nodes		Coord
+1			(0,1)
+3			(1,0)
+5			(1,2)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 1  3  5 
+Communication Time betweeen Base Station and Reporting Node :  0.00000513  
+Number of Communication betweeen Base Station and Reporting Node :  1  
+
+--------------------------------------------------------------------
+Iteration :     9
+Logged time :      :   2023-10-19 08:15:01
+Alert reported time      :2023-10-19 08:15:00
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+0		(0,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	2
+
+1		(0,1)		5	1
+Nearby Nodes		Coord
+6			(2,0)
+4			(1,1)
+2			(0,2)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 4  2 
+Communication Time betweeen Base Station and Reporting Node :  0.00000820  
+Number of Communication betweeen Base Station and Reporting Node :  2  
+
+--------------------------------------------------------------------
+Iteration :     10
+Logged time :      :   2023-10-19 08:30:53
+Alert reported time      :2023-10-19 08:30:24
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+6		(2,0)		5	2
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	3
+
+7		(2,1)		5	0
+Nearby Nodes		Coord
+0			(0,0)
+4			(1,1)
+8			(2,2)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 0  4  8 
+Communication Time betweeen Base Station and Reporting Node :  0.00000829  
+Number of Communication betweeen Base Station and Reporting Node :  6  
+
+--------------------------------------------------------------------
+Iteration :     12
+Logged time :      :   2023-10-19 09:00:12
+Alert reported time      :2023-10-19 09:00:08
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+0		(0,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	-1
+
+1		(0,1)		5	0
+Nearby Nodes		Coord
+6			(2,0)
+4			(1,1)
+2			(0,2)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 6  4 
+Communication Time betweeen Base Station and Reporting Node :  0.00000525  
+Number of Communication betweeen Base Station and Reporting Node :  3  
+
+--------------------------------------------------------------------
+Iteration :     12
+Logged time :      :   2023-10-19 09:00:28
+Alert reported time      :2023-10-19 09:00:09
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+1		(0,1)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+4		(1,1)		5	-1
+
+0		(0,0)		5	0
+
+2		(0,2)		5	0
+Nearby Nodes		Coord
+7			(2,1)
+3			(1,0)
+5			(1,2)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 7  3  5 
+Communication Time betweeen Base Station and Reporting Node :  0.00000574  
+Number of Communication betweeen Base Station and Reporting Node :  1  
+
+--------------------------------------------------------------------
+Iteration :     12
+Logged time :      :   2023-10-19 09:00:03
+Alert reported time      :2023-10-19 09:00:02
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+2		(0,2)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+5		(1,2)		5	-1
+
+1		(0,1)		5	0
+Nearby Nodes		Coord
+8			(2,2)
+4			(1,1)
+0			(0,0)
+Number of Nearby Recommended Node :  1
+Available station nearby within 3th period : 4 
+Communication Time betweeen Base Station and Reporting Node :  0.00000614  
+Number of Communication betweeen Base Station and Reporting Node :  2  
+
+--------------------------------------------------------------------
+Iteration :     12
+Logged time :      :   2023-10-19 09:00:03
+Alert reported time      :2023-10-19 09:00:01
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+8		(2,2)		5	2
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+5		(1,2)		5	5
+
+7		(2,1)		5	1
+Nearby Nodes		Coord
+2			(0,2)
+4			(1,1)
+6			(2,0)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 4  6 
+Communication Time betweeen Base Station and Reporting Node :  0.00000438  
+Number of Communication betweeen Base Station and Reporting Node :  1  
+
+--------------------------------------------------------------------
+Iteration :     13
+Logged time :      :   2023-10-19 09:15:08
+Alert reported time      :2023-10-19 09:15:07
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+0		(0,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	0
+
+1		(0,1)		5	0
+Nearby Nodes		Coord
+6			(2,0)
+4			(1,1)
+2			(0,2)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 4  2 
+Communication Time betweeen Base Station and Reporting Node :  0.00001224  
+Number of Communication betweeen Base Station and Reporting Node :  4  
+
+--------------------------------------------------------------------
+Iteration :     13
+Logged time :      :   2023-10-19 09:15:30
+Alert reported time      :2023-10-19 09:15:12
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+3		(1,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+0		(0,0)		5	0
+
+6		(2,0)		5	0
+
+4		(1,1)		5	4
+Nearby Nodes		Coord
+1			(0,1)
+7			(2,1)
+5			(1,2)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 1  7  5 
+Communication Time betweeen Base Station and Reporting Node :  0.00001040  
+Number of Communication betweeen Base Station and Reporting Node :  2  
+
+--------------------------------------------------------------------
+Iteration :     13
+Logged time :      :   2023-10-19 09:15:43
+Alert reported time      :2023-10-19 09:15:07
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+6		(2,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	0
+
+7		(2,1)		5	1
+Nearby Nodes		Coord
+0			(0,0)
+4			(1,1)
+8			(2,2)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 4  8 
+Communication Time betweeen Base Station and Reporting Node :  0.00001124  
+Number of Communication betweeen Base Station and Reporting Node :  7  
+
+--------------------------------------------------------------------
+Iteration :     14
+Logged time :      :   2023-10-19 09:30:30
+Alert reported time      :2023-10-19 09:30:27
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+1		(0,1)		5	1
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+4		(1,1)		5	0
+
+0		(0,0)		5	1
+
+2		(0,2)		5	2
+Nearby Nodes		Coord
+7			(2,1)
+3			(1,0)
+5			(1,2)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 7  3  5 
+Communication Time betweeen Base Station and Reporting Node :  0.00000667  
+Number of Communication betweeen Base Station and Reporting Node :  2  
+
+--------------------------------------------------------------------
+Iteration :     15
+Logged time :      :   2023-10-19 09:45:14
+Alert reported time      :2023-10-19 09:45:00
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+0		(0,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	0
+
+1		(0,1)		5	3
+Nearby Nodes		Coord
+6			(2,0)
+4			(1,1)
+2			(0,2)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 4  2 
+Communication Time betweeen Base Station and Reporting Node :  0.00000673  
+Number of Communication betweeen Base Station and Reporting Node :  5  
+
+--------------------------------------------------------------------
+Iteration :     15
+Logged time :      :   2023-10-19 09:45:32
+Alert reported time      :2023-10-19 09:45:26
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+3		(1,0)		5	1
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+0		(0,0)		5	4
+
+6		(2,0)		5	0
+
+4		(1,1)		5	0
+Nearby Nodes		Coord
+1			(0,1)
+7			(2,1)
+5			(1,2)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 1  5 
+Communication Time betweeen Base Station and Reporting Node :  0.06185258  
+Number of Communication betweeen Base Station and Reporting Node :  3  
+
+--------------------------------------------------------------------
+Iteration :     15
+Logged time :      :   2023-10-19 09:45:10
+Alert reported time      :2023-10-19 09:45:03
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+6		(2,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	1
+
+7		(2,1)		5	0
+Nearby Nodes		Coord
+0			(0,0)
+4			(1,1)
+8			(2,2)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 4  8 
+Communication Time betweeen Base Station and Reporting Node :  0.06167014  
+Number of Communication betweeen Base Station and Reporting Node :  8  
+
+--------------------------------------------------------------------
+Iteration :     15
+Logged time :      :   2023-10-19 09:45:22
+Alert reported time      :2023-10-19 09:45:01
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+7		(2,1)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+4		(1,1)		5	0
+
+6		(2,0)		5	0
+
+8		(2,2)		5	3
+Nearby Nodes		Coord
+1			(0,1)
+3			(1,0)
+5			(1,2)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 1  5 
+Communication Time betweeen Base Station and Reporting Node :  0.06167087  
+Number of Communication betweeen Base Station and Reporting Node :  2  
+
+--------------------------------------------------------------------
+Iteration :     16
+Logged time :      :   2023-10-19 10:00:45
+Alert reported time      :2023-10-19 10:00:22
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+0		(0,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	0
+
+1		(0,1)		5	3
+Nearby Nodes		Coord
+6			(2,0)
+4			(1,1)
+2			(0,2)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 6  4  2 
+Communication Time betweeen Base Station and Reporting Node :  0.09229442  
+Number of Communication betweeen Base Station and Reporting Node :  6  
+
+--------------------------------------------------------------------
+Iteration :     16
+Logged time :      :   2023-10-19 10:00:39
+Alert reported time      :2023-10-19 10:00:26
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+3		(1,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+0		(0,0)		5	0
+
+6		(2,0)		5	3
+
+4		(1,1)		5	0
+Nearby Nodes		Coord
+1			(0,1)
+7			(2,1)
+5			(1,2)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 1  7  5 
+Communication Time betweeen Base Station and Reporting Node :  0.09229543  
+Number of Communication betweeen Base Station and Reporting Node :  4  
+
+--------------------------------------------------------------------
+Iteration :     18
+Logged time :      :   2023-10-19 10:30:36
+Alert reported time      :2023-10-19 10:30:30
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+0		(0,0)		5	1
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	2
+
+1		(0,1)		5	1
+Nearby Nodes		Coord
+6			(2,0)
+4			(1,1)
+2			(0,2)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 6  4  2 
+Communication Time betweeen Base Station and Reporting Node :  0.07418517  
+Number of Communication betweeen Base Station and Reporting Node :  7  
+
+--------------------------------------------------------------------
+Iteration :     20
+Logged time :      :   2023-10-19 11:00:54
+Alert reported time      :2023-10-19 11:00:28
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+0		(0,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	0
+
+1		(0,1)		5	0
+Nearby Nodes		Coord
+6			(2,0)
+4			(1,1)
+2			(0,2)
+Number of Nearby Recommended Node :  1
+Available station nearby within 3th period : 2 
+Communication Time betweeen Base Station and Reporting Node :  0.00005476  
+Number of Communication betweeen Base Station and Reporting Node :  8  
+
+--------------------------------------------------------------------
+Iteration :     20
+Logged time :      :   2023-10-19 11:00:32
+Alert reported time      :2023-10-19 11:00:20
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+1		(0,1)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+4		(1,1)		5	0
+
+0		(0,0)		5	0
+
+2		(0,2)		5	3
+Nearby Nodes		Coord
+7			(2,1)
+3			(1,0)
+5			(1,2)
+Number of Nearby Recommended Node :  1
+Available station nearby within 3th period : 7 
+Communication Time betweeen Base Station and Reporting Node :  0.00005195  
+Number of Communication betweeen Base Station and Reporting Node :  3  
+
+--------------------------------------------------------------------
+Iteration :     20
+Logged time :      :   2023-10-19 11:00:57
+Alert reported time      :2023-10-19 11:00:15
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+3		(1,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+0		(0,0)		5	0
+
+6		(2,0)		5	1
+
+4		(1,1)		5	0
+Nearby Nodes		Coord
+1			(0,1)
+7			(2,1)
+5			(1,2)
+Number of Nearby Recommended Node :  1
+Available station nearby within 3th period : 7 
+Communication Time betweeen Base Station and Reporting Node :  0.00005332  
+Number of Communication betweeen Base Station and Reporting Node :  5  
+
+--------------------------------------------------------------------
+Iteration :     20
+Logged time :      :   2023-10-19 11:00:03
+Alert reported time      :2023-10-19 11:00:02
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+4		(1,1)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+1		(0,1)		5	0
+
+7		(2,1)		5	2
+
+3		(1,0)		5	0
+
+5		(1,2)		5	1
+Nearby Nodes		Coord
+0			(0,0)
+2			(0,2)
+6			(2,0)
+8			(2,2)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 2  8 
+Communication Time betweeen Base Station and Reporting Node :  0.00005381  
+Number of Communication betweeen Base Station and Reporting Node :  1  
+
+--------------------------------------------------------------------
+Iteration :     20
+Logged time :      :   2023-10-19 11:00:17
+Alert reported time      :2023-10-19 11:00:05
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+5		(1,2)		5	1
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+2		(0,2)		5	3
+
+8		(2,2)		5	0
+
+4		(1,1)		5	0
+Nearby Nodes		Coord
+1			(0,1)
+7			(2,1)
+3			(1,0)
+Number of Nearby Recommended Node :  1
+Available station nearby within 3th period : 7 
+Communication Time betweeen Base Station and Reporting Node :  0.00005415  
+Number of Communication betweeen Base Station and Reporting Node :  1  
+
+--------------------------------------------------------------------
+Iteration :     20
+Logged time :      :   2023-10-19 11:00:46
+Alert reported time      :2023-10-19 11:00:17
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+6		(2,0)		5	1
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	0
+
+7		(2,1)		5	2
+Nearby Nodes		Coord
+0			(0,0)
+4			(1,1)
+8			(2,2)
+Number of Nearby Recommended Node :  1
+Available station nearby within 3th period : 8 
+Communication Time betweeen Base Station and Reporting Node :  0.03221148  
+Number of Communication betweeen Base Station and Reporting Node :  9  
+
+--------------------------------------------------------------------
+Iteration :     22
+Logged time :      :   2023-10-19 11:30:45
+Alert reported time      :2023-10-19 11:30:42
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+2		(0,2)		5	1
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+5		(1,2)		5	2
+
+1		(0,1)		5	0
+Nearby Nodes		Coord
+8			(2,2)
+4			(1,1)
+0			(0,0)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 8  4  0 
+Communication Time betweeen Base Station and Reporting Node :  0.00000429  
+Number of Communication betweeen Base Station and Reporting Node :  3  
+
+--------------------------------------------------------------------
+Iteration :     24
+Logged time :      :   2023-10-19 12:00:57
+Alert reported time      :2023-10-19 12:00:41
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+0		(0,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	0
+
+1		(0,1)		5	3
+Nearby Nodes		Coord
+6			(2,0)
+4			(1,1)
+2			(0,2)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 6  4 
+Communication Time betweeen Base Station and Reporting Node :  0.00000444  
+Number of Communication betweeen Base Station and Reporting Node :  9  
+
+--------------------------------------------------------------------
+Iteration :     24
+Logged time :      :   2023-10-19 12:00:47
+Alert reported time      :2023-10-19 12:00:25
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+2		(0,2)		5	3
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+5		(1,2)		5	1
+
+1		(0,1)		5	-1
+Nearby Nodes		Coord
+8			(2,2)
+4			(1,1)
+0			(0,0)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 8  4 
+Communication Time betweeen Base Station and Reporting Node :  0.00000482  
+Number of Communication betweeen Base Station and Reporting Node :  4  
+
+--------------------------------------------------------------------
+Iteration :     24
+Logged time :      :   2023-10-19 12:00:14
+Alert reported time      :2023-10-19 12:00:07
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+3		(1,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+0		(0,0)		5	0
+
+6		(2,0)		5	5
+
+4		(1,1)		5	1
+Nearby Nodes		Coord
+1			(0,1)
+7			(2,1)
+5			(1,2)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 1  7 
+Communication Time betweeen Base Station and Reporting Node :  0.00000338  
+Number of Communication betweeen Base Station and Reporting Node :  6  
+
+--------------------------------------------------------------------
+Iteration :     24
+Logged time :      :   2023-10-19 12:00:25
+Alert reported time      :2023-10-19 12:00:20
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+5		(1,2)		5	1
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+2		(0,2)		5	3
+
+8		(2,2)		5	1
+
+4		(1,1)		5	1
+Nearby Nodes		Coord
+1			(0,1)
+7			(2,1)
+3			(1,0)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 1  7 
+Communication Time betweeen Base Station and Reporting Node :  0.00000390  
+Number of Communication betweeen Base Station and Reporting Node :  2  
+
+--------------------------------------------------------------------
+Iteration :     25
+Logged time :      :   2023-10-19 12:15:43
+Alert reported time      :2023-10-19 12:15:42
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+0		(0,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	1
+
+1		(0,1)		5	1
+Nearby Nodes		Coord
+6			(2,0)
+4			(1,1)
+2			(0,2)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 6  4  2 
+Communication Time betweeen Base Station and Reporting Node :  0.00001071  
+Number of Communication betweeen Base Station and Reporting Node :  10  
+
+--------------------------------------------------------------------
+Iteration :     25
+Logged time :      :   2023-10-19 12:15:15
+Alert reported time      :2023-10-19 12:15:12
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+8		(2,2)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+5		(1,2)		5	2
+
+7		(2,1)		5	1
+Nearby Nodes		Coord
+2			(0,2)
+4			(1,1)
+6			(2,0)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 2  4  6 
+Communication Time betweeen Base Station and Reporting Node :  0.00000962  
+Number of Communication betweeen Base Station and Reporting Node :  2  
+
+--------------------------------------------------------------------
+Iteration :     28
+Logged time :      :   2023-10-19 13:00:15
+Alert reported time      :2023-10-19 13:00:14
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+8		(2,2)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+5		(1,2)		5	3
+
+7		(2,1)		5	0
+Nearby Nodes		Coord
+2			(0,2)
+4			(1,1)
+6			(2,0)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 2  4  6 
+Communication Time betweeen Base Station and Reporting Node :  0.04288250  
+Number of Communication betweeen Base Station and Reporting Node :  3  
+
+--------------------------------------------------------------------
+Iteration :     29
+Logged time :      :   2023-10-19 13:15:04
+Alert reported time      :2023-10-19 13:15:02
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+0		(0,0)		5	1
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	2
+
+1		(0,1)		5	1
+Nearby Nodes		Coord
+6			(2,0)
+4			(1,1)
+2			(0,2)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 6  4 
+Communication Time betweeen Base Station and Reporting Node :  0.00000774  
+Number of Communication betweeen Base Station and Reporting Node :  11  
+
+--------------------------------------------------------------------
+Iteration :     29
+Logged time :      :   2023-10-19 13:15:08
+Alert reported time      :2023-10-19 13:15:00
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+1		(0,1)		5	1
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+4		(1,1)		5	0
+
+0		(0,0)		5	1
+
+2		(0,2)		5	0
+Nearby Nodes		Coord
+7			(2,1)
+3			(1,0)
+5			(1,2)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 7  3  5 
+Communication Time betweeen Base Station and Reporting Node :  0.00000850  
+Number of Communication betweeen Base Station and Reporting Node :  4  
+
+--------------------------------------------------------------------
+Iteration :     29
+Logged time :      :   2023-10-19 13:15:37
+Alert reported time      :2023-10-19 13:15:17
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+2		(0,2)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+5		(1,2)		5	-1
+
+1		(0,1)		5	1
+Nearby Nodes		Coord
+8			(2,2)
+4			(1,1)
+0			(0,0)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 8  4 
+Communication Time betweeen Base Station and Reporting Node :  0.00000918  
+Number of Communication betweeen Base Station and Reporting Node :  5  
+
+--------------------------------------------------------------------
+Iteration :     30
+Logged time :      :   2023-10-19 13:30:09
+Alert reported time      :2023-10-19 13:30:03
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+0		(0,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	1
+
+1		(0,1)		5	3
+Nearby Nodes		Coord
+6			(2,0)
+4			(1,1)
+2			(0,2)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 6  4 
+Communication Time betweeen Base Station and Reporting Node :  0.00000889  
+Number of Communication betweeen Base Station and Reporting Node :  12  
+
+--------------------------------------------------------------------
+Iteration :     30
+Logged time :      :   2023-10-19 13:30:04
+Alert reported time      :2023-10-19 13:30:03
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+2		(0,2)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+5		(1,2)		5	0
+
+1		(0,1)		5	3
+Nearby Nodes		Coord
+8			(2,2)
+4			(1,1)
+0			(0,0)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 8  4 
+Communication Time betweeen Base Station and Reporting Node :  0.00000996  
+Number of Communication betweeen Base Station and Reporting Node :  6  
+
+--------------------------------------------------------------------
+Iteration :     31
+Logged time :      :   2023-10-19 13:45:15
+Alert reported time      :2023-10-19 13:45:04
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+0		(0,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	0
+
+1		(0,1)		5	0
+Nearby Nodes		Coord
+6			(2,0)
+4			(1,1)
+2			(0,2)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 6  4 
+Communication Time betweeen Base Station and Reporting Node :  0.00000914  
+Number of Communication betweeen Base Station and Reporting Node :  13  
+
+--------------------------------------------------------------------
+Iteration :     32
+Logged time :      :   2023-10-19 14:00:13
+Alert reported time      :2023-10-19 14:00:07
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+0		(0,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	0
+
+1		(0,1)		5	4
+Nearby Nodes		Coord
+6			(2,0)
+4			(1,1)
+2			(0,2)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 6  4  2 
+Communication Time betweeen Base Station and Reporting Node :  0.00001056  
+Number of Communication betweeen Base Station and Reporting Node :  14  
+
+--------------------------------------------------------------------
+Iteration :     33
+Logged time :      :   2023-10-19 14:15:57
+Alert reported time      :2023-10-19 14:15:48
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+1		(0,1)		5	1
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+4		(1,1)		5	0
+
+0		(0,0)		5	4
+
+2		(0,2)		5	0
+Nearby Nodes		Coord
+7			(2,1)
+3			(1,0)
+5			(1,2)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 7  3  5 
+Communication Time betweeen Base Station and Reporting Node :  0.00000844  
+Number of Communication betweeen Base Station and Reporting Node :  5  
+
+--------------------------------------------------------------------
+Iteration :     33
+Logged time :      :   2023-10-19 14:15:20
+Alert reported time      :2023-10-19 14:15:12
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+2		(0,2)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+5		(1,2)		5	3
+
+1		(0,1)		5	1
+Nearby Nodes		Coord
+8			(2,2)
+4			(1,1)
+0			(0,0)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 8  4 
+Communication Time betweeen Base Station and Reporting Node :  0.00000948  
+Number of Communication betweeen Base Station and Reporting Node :  7  
+
+--------------------------------------------------------------------
+Iteration :     34
+Logged time :      :   2023-10-19 14:30:47
+Alert reported time      :2023-10-19 14:30:23
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+6		(2,0)		5	1
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	1
+
+7		(2,1)		5	4
+Nearby Nodes		Coord
+0			(0,0)
+4			(1,1)
+8			(2,2)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 0  4  8 
+Communication Time betweeen Base Station and Reporting Node :  0.00000825  
+Number of Communication betweeen Base Station and Reporting Node :  10  
+
+--------------------------------------------------------------------
+Iteration :     35
+Logged time :      :   2023-10-19 14:45:55
+Alert reported time      :2023-10-19 14:45:09
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+2		(0,2)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+5		(1,2)		5	-1
+
+1		(0,1)		5	0
+Nearby Nodes		Coord
+8			(2,2)
+4			(1,1)
+0			(0,0)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 4  0 
+Communication Time betweeen Base Station and Reporting Node :  0.09236470  
+Number of Communication betweeen Base Station and Reporting Node :  8  
+
+--------------------------------------------------------------------
+Iteration :     35
+Logged time :      :   2023-10-19 14:45:16
+Alert reported time      :2023-10-19 14:45:10
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+5		(1,2)		5	1
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+2		(0,2)		5	0
+
+8		(2,2)		5	1
+
+4		(1,1)		5	2
+Nearby Nodes		Coord
+1			(0,1)
+7			(2,1)
+3			(1,0)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 1  7  3 
+Communication Time betweeen Base Station and Reporting Node :  0.09236779  
+Number of Communication betweeen Base Station and Reporting Node :  3  
+
+--------------------------------------------------------------------
+Iteration :     35
+Logged time :      :   2023-10-19 14:45:15
+Alert reported time      :2023-10-19 14:45:13
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+8		(2,2)		5	1
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+5		(1,2)		5	1
+
+7		(2,1)		5	3
+Nearby Nodes		Coord
+2			(0,2)
+4			(1,1)
+6			(2,0)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 4  6 
+Communication Time betweeen Base Station and Reporting Node :  0.09236839  
+Number of Communication betweeen Base Station and Reporting Node :  4  
+
+--------------------------------------------------------------------
+Iteration :     36
+Logged time :      :   2023-10-19 15:00:48
+Alert reported time      :2023-10-19 15:00:09
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+2		(0,2)		5	4
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+5		(1,2)		5	0
+
+1		(0,1)		5	-1
+Nearby Nodes		Coord
+8			(2,2)
+4			(1,1)
+0			(0,0)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 8  4  0 
+Communication Time betweeen Base Station and Reporting Node :  0.07937902  
+Number of Communication betweeen Base Station and Reporting Node :  9  
+
+--------------------------------------------------------------------
+Iteration :     38
+Logged time :      :   2023-10-19 15:30:18
+Alert reported time      :2023-10-19 15:30:02
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+0		(0,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	3
+
+1		(0,1)		5	0
+Nearby Nodes		Coord
+6			(2,0)
+4			(1,1)
+2			(0,2)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 6  4 
+Communication Time betweeen Base Station and Reporting Node :  0.00000574  
+Number of Communication betweeen Base Station and Reporting Node :  15  
+
+--------------------------------------------------------------------
+Iteration :     38
+Logged time :      :   2023-10-19 15:30:58
+Alert reported time      :2023-10-19 15:30:46
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+1		(0,1)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+4		(1,1)		5	-1
+
+0		(0,0)		5	0
+
+2		(0,2)		5	0
+Nearby Nodes		Coord
+7			(2,1)
+3			(1,0)
+5			(1,2)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 7  3  5 
+Communication Time betweeen Base Station and Reporting Node :  0.03168426  
+Number of Communication betweeen Base Station and Reporting Node :  6  
+
+--------------------------------------------------------------------
+Iteration :     38
+Logged time :      :   2023-10-19 15:30:53
+Alert reported time      :2023-10-19 15:30:06
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+2		(0,2)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+5		(1,2)		5	3
+
+1		(0,1)		5	0
+Nearby Nodes		Coord
+8			(2,2)
+4			(1,1)
+0			(0,0)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 8  4 
+Communication Time betweeen Base Station and Reporting Node :  0.03169142  
+Number of Communication betweeen Base Station and Reporting Node :  10  
+
+--------------------------------------------------------------------
+Iteration :     40
+Logged time :      :   2023-10-19 16:00:02
+Alert reported time      :2023-10-19 16:00:00
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+6		(2,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	0
+
+7		(2,1)		5	4
+Nearby Nodes		Coord
+0			(0,0)
+4			(1,1)
+8			(2,2)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 0  4  8 
+Communication Time betweeen Base Station and Reporting Node :  0.00000436  
+Number of Communication betweeen Base Station and Reporting Node :  11  
+
+--------------------------------------------------------------------
+Iteration :     46
+Logged time :      :   2023-10-19 17:30:27
+Alert reported time      :2023-10-19 17:30:01
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+7		(2,1)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+4		(1,1)		5	0
+
+6		(2,0)		5	-1
+
+8		(2,2)		5	0
+Nearby Nodes		Coord
+1			(0,1)
+3			(1,0)
+5			(1,2)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 1  3  5 
+Communication Time betweeen Base Station and Reporting Node :  0.00000531  
+Number of Communication betweeen Base Station and Reporting Node :  3  
+
+--------------------------------------------------------------------
+Iteration :     46
+Logged time :      :   2023-10-19 17:30:46
+Alert reported time      :2023-10-19 17:30:31
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+8		(2,2)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+5		(1,2)		5	3
+
+7		(2,1)		5	0
+Nearby Nodes		Coord
+2			(0,2)
+4			(1,1)
+6			(2,0)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 2  4  6 
+Communication Time betweeen Base Station and Reporting Node :  0.00000607  
+Number of Communication betweeen Base Station and Reporting Node :  5  
+
+--------------------------------------------------------------------
+Iteration :     48
+Logged time :      :   2023-10-19 18:00:05
+Alert reported time      :2023-10-19 18:00:04
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+5		(1,2)		5	1
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+2		(0,2)		5	4
+
+8		(2,2)		5	0
+
+4		(1,1)		5	0
+Nearby Nodes		Coord
+1			(0,1)
+7			(2,1)
+3			(1,0)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 1  7  3 
+Communication Time betweeen Base Station and Reporting Node :  0.00000513  
+Number of Communication betweeen Base Station and Reporting Node :  4  
+
+--------------------------------------------------------------------
+Iteration :     48
+Logged time :      :   2023-10-19 18:00:41
+Alert reported time      :2023-10-19 18:00:40
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+8		(2,2)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+5		(1,2)		5	1
+
+7		(2,1)		5	2
+Nearby Nodes		Coord
+2			(0,2)
+4			(1,1)
+6			(2,0)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 2  4  6 
+Communication Time betweeen Base Station and Reporting Node :  0.00000597  
+Number of Communication betweeen Base Station and Reporting Node :  6  
+
+--------------------------------------------------------------------
+Iteration :     53
+Logged time :      :   2023-10-19 19:15:52
+Alert reported time      :2023-10-19 19:15:17
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+8		(2,2)		5	1
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+5		(1,2)		5	0
+
+7		(2,1)		5	2
+Nearby Nodes		Coord
+2			(0,2)
+4			(1,1)
+6			(2,0)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 2  4  6 
+Communication Time betweeen Base Station and Reporting Node :  0.00000451  
+Number of Communication betweeen Base Station and Reporting Node :  7  
+
+--------------------------------------------------------------------
+Iteration :     54
+Logged time :      :   2023-10-19 19:30:58
+Alert reported time      :2023-10-19 19:30:01
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+8		(2,2)		5	1
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+5		(1,2)		5	2
+
+7		(2,1)		5	0
+Nearby Nodes		Coord
+2			(0,2)
+4			(1,1)
+6			(2,0)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 2  4  6 
+Communication Time betweeen Base Station and Reporting Node :  0.00000699  
+Number of Communication betweeen Base Station and Reporting Node :  8  
+
+--------------------------------------------------------------------
+Iteration :     56
+Logged time :      :   2023-10-19 20:00:22
+Alert reported time      :2023-10-19 20:00:13
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+6		(2,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	1
+
+7		(2,1)		5	1
+Nearby Nodes		Coord
+0			(0,0)
+4			(1,1)
+8			(2,2)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 0  4  8 
+Communication Time betweeen Base Station and Reporting Node :  0.00000646  
+Number of Communication betweeen Base Station and Reporting Node :  12  
+
+--------------------------------------------------------------------
+Iteration :     57
+Logged time :      :   2023-10-19 20:15:10
+Alert reported time      :2023-10-19 20:15:07
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+2		(0,2)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+5		(1,2)		5	1
+
+1		(0,1)		5	4
+Nearby Nodes		Coord
+8			(2,2)
+4			(1,1)
+0			(0,0)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 4  0 
+Communication Time betweeen Base Station and Reporting Node :  0.00000818  
+Number of Communication betweeen Base Station and Reporting Node :  11  
+
+--------------------------------------------------------------------
+Iteration :     57
+Logged time :      :   2023-10-19 20:15:28
+Alert reported time      :2023-10-19 20:15:24
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+5		(1,2)		5	1
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+2		(0,2)		5	0
+
+8		(2,2)		5	1
+
+4		(1,1)		5	0
+Nearby Nodes		Coord
+1			(0,1)
+7			(2,1)
+3			(1,0)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 1  3 
+Communication Time betweeen Base Station and Reporting Node :  0.00000885  
+Number of Communication betweeen Base Station and Reporting Node :  5  
+
+--------------------------------------------------------------------
+Iteration :     57
+Logged time :      :   2023-10-19 20:15:18
+Alert reported time      :2023-10-19 20:15:03
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+7		(2,1)		5	1
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+4		(1,1)		5	0
+
+6		(2,0)		5	3
+
+8		(2,2)		5	1
+Nearby Nodes		Coord
+1			(0,1)
+3			(1,0)
+5			(1,2)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 1  3 
+Communication Time betweeen Base Station and Reporting Node :  0.00000653  
+Number of Communication betweeen Base Station and Reporting Node :  4  
+
+--------------------------------------------------------------------
+Iteration :     57
+Logged time :      :   2023-10-19 20:15:07
+Alert reported time      :2023-10-19 20:15:00
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+8		(2,2)		5	1
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+5		(1,2)		5	1
+
+7		(2,1)		5	1
+Nearby Nodes		Coord
+2			(0,2)
+4			(1,1)
+6			(2,0)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 4  6 
+Communication Time betweeen Base Station and Reporting Node :  0.00000748  
+Number of Communication betweeen Base Station and Reporting Node :  9  
+
+--------------------------------------------------------------------
+Iteration :     59
+Logged time :      :   2023-10-19 20:45:47
+Alert reported time      :2023-10-19 20:45:34
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+0		(0,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	3
+
+1		(0,1)		5	0
+Nearby Nodes		Coord
+6			(2,0)
+4			(1,1)
+2			(0,2)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 6  4  2 
+Communication Time betweeen Base Station and Reporting Node :  0.00000498  
+Number of Communication betweeen Base Station and Reporting Node :  16  
+
+--------------------------------------------------------------------
+Iteration :     60
+Logged time :      :   2023-10-19 21:00:60
+Alert reported time      :2023-10-19 21:00:44
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+3		(1,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+0		(0,0)		5	3
+
+6		(2,0)		5	0
+
+4		(1,1)		5	1
+Nearby Nodes		Coord
+1			(0,1)
+7			(2,1)
+5			(1,2)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 1  5 
+Communication Time betweeen Base Station and Reporting Node :  0.00002920  
+Number of Communication betweeen Base Station and Reporting Node :  7  
+
+--------------------------------------------------------------------
+Iteration :     60
+Logged time :      :   2023-10-19 21:00:29
+Alert reported time      :2023-10-19 21:00:26
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+4		(1,1)		5	1
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+1		(0,1)		5	1
+
+7		(2,1)		5	1
+
+3		(1,0)		5	0
+
+5		(1,2)		5	-1
+Nearby Nodes		Coord
+0			(0,0)
+2			(0,2)
+6			(2,0)
+8			(2,2)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 0  2 
+Communication Time betweeen Base Station and Reporting Node :  0.00003013  
+Number of Communication betweeen Base Station and Reporting Node :  2  
+
+--------------------------------------------------------------------
+Iteration :     60
+Logged time :      :   2023-10-19 21:00:33
+Alert reported time      :2023-10-19 21:00:20
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+6		(2,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	0
+
+7		(2,1)		5	1
+Nearby Nodes		Coord
+0			(0,0)
+4			(1,1)
+8			(2,2)
+Number of Nearby Recommended Node :  1
+Available station nearby within 3th period : 0 
+Communication Time betweeen Base Station and Reporting Node :  0.00003109  
+Number of Communication betweeen Base Station and Reporting Node :  13  
+
+--------------------------------------------------------------------
+Iteration :     60
+Logged time :      :   2023-10-19 21:00:04
+Alert reported time      :2023-10-19 21:00:03
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+7		(2,1)		5	1
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+4		(1,1)		5	1
+
+6		(2,0)		5	0
+
+8		(2,2)		5	-1
+Nearby Nodes		Coord
+1			(0,1)
+3			(1,0)
+5			(1,2)
+Number of Nearby Recommended Node :  2
+Available station nearby within 3th period : 1  5 
+Communication Time betweeen Base Station and Reporting Node :  0.00003157  
+Number of Communication betweeen Base Station and Reporting Node :  5  
+
+--------------------------------------------------------------------
+Iteration :     60
+Logged time :      :   2023-10-19 21:00:31
+Alert reported time      :2023-10-19 21:00:01
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+8		(2,2)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+5		(1,2)		5	2
+
+7		(2,1)		5	1
+Nearby Nodes		Coord
+2			(0,2)
+4			(1,1)
+6			(2,0)
+Number of Nearby Recommended Node :  1
+Available station nearby within 3th period : 2 
+Communication Time betweeen Base Station and Reporting Node :  0.00003227  
+Number of Communication betweeen Base Station and Reporting Node :  10  
+
+--------------------------------------------------------------------
+Iteration :     61
+Logged time :      :   2023-10-19 21:15:29
+Alert reported time      :2023-10-19 21:15:27
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+0		(0,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	3
+
+1		(0,1)		5	1
+Nearby Nodes		Coord
+6			(2,0)
+4			(1,1)
+2			(0,2)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 6  4  2 
+Communication Time betweeen Base Station and Reporting Node :  0.00001091  
+Number of Communication betweeen Base Station and Reporting Node :  17  
+
+--------------------------------------------------------------------
+Iteration :     61
+Logged time :      :   2023-10-19 21:15:41
+Alert reported time      :2023-10-19 21:15:24
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+1		(0,1)		5	1
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+4		(1,1)		5	1
+
+0		(0,0)		5	0
+
+2		(0,2)		5	3
+Nearby Nodes		Coord
+7			(2,1)
+3			(1,0)
+5			(1,2)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 7  3  5 
+Communication Time betweeen Base Station and Reporting Node :  0.00001164  
+Number of Communication betweeen Base Station and Reporting Node :  7  
+
+--------------------------------------------------------------------
+Iteration :     62
+Logged time :      :   2023-10-19 21:30:37
+Alert reported time      :2023-10-19 21:30:10
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+0		(0,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	3
+
+1		(0,1)		5	0
+Nearby Nodes		Coord
+6			(2,0)
+4			(1,1)
+2			(0,2)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 6  4  2 
+Communication Time betweeen Base Station and Reporting Node :  0.00000867  
+Number of Communication betweeen Base Station and Reporting Node :  18  
+
+--------------------------------------------------------------------
+Iteration :     62
+Logged time :      :   2023-10-19 21:30:39
+Alert reported time      :2023-10-19 21:30:34
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+8		(2,2)		5	1
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+5		(1,2)		5	1
+
+7		(2,1)		5	0
+Nearby Nodes		Coord
+2			(0,2)
+4			(1,1)
+6			(2,0)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 2  4  6 
+Communication Time betweeen Base Station and Reporting Node :  0.00000773  
+Number of Communication betweeen Base Station and Reporting Node :  11  
+
+--------------------------------------------------------------------
+Iteration :     67
+Logged time :      :   2023-10-19 22:45:27
+Alert reported time      :2023-10-19 22:45:06
+Number of Adjacent Node :  
+Reporting Node	Coord	Port Value	Availabe Port
+6		(2,0)		5	0
+Adjacent Nodes	Coord	Port Value	Available Port	
+
+3		(1,0)		5	3
+
+7		(2,1)		5	0
+Nearby Nodes		Coord
+0			(0,0)
+4			(1,1)
+8			(2,2)
+Number of Nearby Recommended Node :  3
+Available station nearby within 3th period : 0  4  8 
+Communication Time betweeen Base Station and Reporting Node :  0.00000463  
+Number of Communication betweeen Base Station and Reporting Node :  14  
